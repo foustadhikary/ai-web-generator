@@ -114,7 +114,3 @@ Contributions are welcome! To contribute:
 Please ensure code style consistency and passing tests.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
